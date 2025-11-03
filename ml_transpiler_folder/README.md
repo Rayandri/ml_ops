@@ -4,7 +4,7 @@
 
 ```bash
 git clone git@github.com:Rayandri/ml_ops.git
-cd mlops
+cd ml_ops/ml_transpiler_folder
 ```
 
 ## Génération du code C
