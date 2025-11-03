@@ -3,7 +3,7 @@
 ## Installation
 
 ```bash
-git clone <repository-url>
+git clone git@github.com:Rayandri/ml_ops.git
 cd mlops
 ```
 
