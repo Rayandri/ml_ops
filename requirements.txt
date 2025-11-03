@@ -4,3 +4,4 @@ mlflow
 numpy
 pydantic
 scikit-learn
+pandas
